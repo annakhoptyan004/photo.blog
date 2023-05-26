@@ -1,0 +1,49 @@
+.nav-list-item {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.36;
+  color: #7d7d7d;
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+.link:hover {
+  color: #03a9f4;
+}
+.heading {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.14;
+  color: #b4ad9e;
+}
+.heading-list {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 0.75;
+  color: #626262;
+}
+.main-list-item {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.36;
+  color: #626262;
+}
+.button {
+  font-family: 'Playfair Display';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.63;
+  color: #626262;
+}
+.main-list {
+  list-style: none;
+}
